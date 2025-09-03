@@ -73,9 +73,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vednashday&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednashday&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
