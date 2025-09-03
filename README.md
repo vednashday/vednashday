@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vedansh 👋
 
-<!--
-**vednashday/vednashday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack developer passionate about React, Node.js, and cool projects.  
+🚀 Currently building awesome apps and learning new tech every day.  
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-link) | [Twitter](https://twitter.com/your-handle)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ GitHub Stats
+![Vedansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vednashday&show_icons=true&theme=tokyonight)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vednashday&theme=tokyonight)
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, Next.js, Tailwind  
+- **Backend:** Node.js, Express, MongoDB  
+- **Other:** Firebase, SQL, Docker  
+
+---
+
+### 🌟 Featured Projects
+- [**Twiller (Twitter Clone)**](https://github.com/vednashday/twiller) – Voice tweets, OTP verification, subscriptions  
+- [**Stock Analysis Website**](https://github.com/vednashday/stock-app) – React + finance dashboard  
