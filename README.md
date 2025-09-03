@@ -1,17 +1,17 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:6A5ACD&height=120&section=header&text=👋%20Hi%2C%20I'm%20Vedansh%20Pratap%20Singh&fontSize=30&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:6A5ACD&height=120&section=header&text=Hi%2C%20I'm%20Vedansh%20Pratap%20Singh&fontSize=30&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 <!-- INTRO -->
-<h2 align="center">🚀 Full-Stack Developer | Software Engineering Student @ DTU</h2>
+<h2 align="center">Full-Stack Developer | Software Engineering Student @ DTU</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+MERN+%26+Next.js;Building+cool+projects+%F0%9F%9A%80;Exploring+3D+Web+%26+UI%2FUX+Design;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+MERN+%26+Next.js;Building+scalable+projects;Exploring+3D+Web+%26+UI%2FUX+Design;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal  
+## Tech Arsenal  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,ts,tailwind,threejs,git,cpp,python,java,mysql,docker" />
@@ -35,33 +35,33 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
-### 🐦 [Twiller – Twitter-Inspired Platform](https://github.com/vednashday/twiller-v2)  
-> Voice Tweets 🎙️ • Subscriptions 💳 • OTP Auth 🔐 • Cloudinary ☁️  
+### [Twiller – Twitter-Inspired Platform](https://github.com/vednashday/twiller-v2)  
+Voice tweets with recording and waveform • Subscriptions • OTP Auth • Cloudinary  
 `React • Node.js • Express • MongoDB • Firebase • Razorpay • Tailwind`
 
 ---
 
-### 💬 [BuzzRoom – Real-Time Social App](https://github.com/vednashday/Buzzroom)  
-> Chat ⚡ • Video Calls 🎥 • Secure APIs 🔐 • Analytics 📊  
+### [BuzzRoom – Real-Time Social App](https://github.com/vednashday/Buzzroom)  
+Instant messaging • Video Calls • Secure APIs • Analytics  
 `React • Node.js • WebRTC • Socket.IO • MongoDB • Tailwind`
 
 ---
 
-### 🎮 [PokeLib 3D – Interactive Pokédex](https://github.com/vednashday/PokeLib_3D)  
-> 3D Models 🕹️ • SSR ⚡ • API Integration 🌐  
+### [PokeLib 3D – Interactive Pokédex](https://github.com/vednashday/PokeLib_3D)  
+3D Models • SSR • API Integration • Custom Loader  
 `Next.js • TypeScript • React Three Fiber • Tailwind • Vercel`
 
 ---
 
-### 🌐 [Personal Portfolio](https://github.com/vednashday/portfolio)  
-> Minimal • Responsive • Animated ✨  
+### [Personal Portfolio](https://github.com/vednashday/portfolio)  
+Minimal • Responsive • Animated with Framer Motion  
 `React • Tailwind • Framer Motion • Vercel`
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vednashday&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
@@ -74,15 +74,15 @@
 
 ---
 
-## 🏆 Achievements  
+## Achievements  
 
-- 🥇 Solved **300+ problems on CodeChef** & **200+ on LeetCode**  
-- 🚀 Improved website performance by **40% (SEO + SSR)**  
-- ✨ Mentored students via **Desh ke Mentor**  
+- Solved 300+ problems on CodeChef and 200+ on LeetCode  
+- Improved website performance by ~40% with SEO + SSR optimization  
+- Mentored students through Desh ke Mentor initiative  
 
 ---
 
-## 🔥 Fun Zone  
+## Extras  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vednashday&style=for-the-badge&color=blue" />
