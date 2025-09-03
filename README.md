@@ -1,95 +1,97 @@
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20I'm%20Vedansh%20👋&fontSize=30&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:6A5ACD&height=120&section=header&text=👋%20Hi%2C%20I'm%20Vedansh%20Pratap%20Singh&fontSize=30&fontAlignY=35&fontColor=ffffff" />
 </p>
 
-# 💻 Vedansh Pratap Singh  
-
-**Software Engineering Student @ DTU | Full-Stack Developer | MERN & Next.js Enthusiast**  
-
-🚀 Frontend Developer Intern @ **Herkaswanen** (Aug 2025 – Oct 2025)  
-⚡ MERN Stack Developer Intern @ **Nullclass** (Jun 2025 – Aug 2025)  
-🛠 Web Developer Intern @ **Internship Studio** (May 2024 – Jul 2024)  
-
-🌟 Passionate about building scalable apps, UI/UX optimization, and solving real-world problems with code.  
+<!-- INTRO -->
+<h2 align="center">🚀 Full-Stack Developer | Software Engineering Student @ DTU</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Passionate+about+MERN+%26+Next.js;Building+cool+projects+%F0%9F%9A%80;Exploring+3D+Web+%26+UI%2FUX+Design;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vednashday-portfolio.vercel.app)  
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://vednashday-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:vednashpsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Arsenal  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,ts,tailwind,threejs,git,cpp,python,java,mysql,docker" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🐦 [Twiller – Twitter-Inspired Social Media Platform](https://github.com/vednashday/twiller-v2)  
-- Voice tweets with custom recording + waveform 🎙️  
-- Razorpay subscriptions for premium access 💳  
-- OTP password recovery & Firebase auth 🔐  
-- Cloudinary integration for scalable media uploads ☁️  
-- **Stack:** React, Node.js, Express, MongoDB, Firebase, Razorpay, Cloudinary, Tailwind  
-
-### 💬 [BuzzRoom – Real-Time Social App](https://github.com/vednashday/Buzzroom)  
-- Instant messaging with **Socket.IO**  
-- Peer-to-peer video calls via **WebRTC**  
-- Secure REST APIs with **Express.js & MongoDB**  
-- Responsive UI with React + TailwindCSS  
-- **Stack:** React, Node.js, Express, MongoDB, WebRTC, Socket.IO  
-
-### 🎮 [PokeLib 3D – Interactive Pokédex](https://github.com/vednashday/PokeLib_3D)  
-- 3D Pokémon models using **React Three Fiber**  
-- SEO + SSR with **Next.js + TypeScript**  
-- Dynamic data aggregation from multiple APIs  
-- Custom 3D loading animation for smooth UX  
-- **Stack:** Next.js, TypeScript, Three.js, TailwindCSS, Vercel  
-
-### 🌐 [Personal Portfolio](https://github.com/vednashday/portfolio)  
-- Clean single-page design  
-- **Framer Motion** animations for smooth transitions  
-- Fully responsive (mobile-first)  
-- Deployed on Vercel 🚀  
+### 🐦 [Twiller – Twitter-Inspired Platform](https://github.com/vednashday/twiller-v2)  
+> Voice Tweets 🎙️ • Subscriptions 💳 • OTP Auth 🔐 • Cloudinary ☁️  
+`React • Node.js • Express • MongoDB • Firebase • Razorpay • Tailwind`
 
 ---
 
-## 📊 GitHub Stats  
+### 💬 [BuzzRoom – Real-Time Social App](https://github.com/vednashday/Buzzroom)  
+> Chat ⚡ • Video Calls 🎥 • Secure APIs 🔐 • Analytics 📊  
+`React • Node.js • WebRTC • Socket.IO • MongoDB • Tailwind`
+
+---
+
+### 🎮 [PokeLib 3D – Interactive Pokédex](https://github.com/vednashday/PokeLib_3D)  
+> 3D Models 🕹️ • SSR ⚡ • API Integration 🌐  
+`Next.js • TypeScript • React Three Fiber • Tailwind • Vercel`
+
+---
+
+### 🌐 [Personal Portfolio](https://github.com/vednashday/portfolio)  
+> Minimal • Responsive • Animated ✨  
+`React • Tailwind • Framer Motion • Vercel`
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vednashday&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vednashday&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vednashday&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vednashday&theme=radical&hide_border=true&background=0D1117" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednashday&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
-- Solved **300+ problems on CodeChef** and **200+ on LeetCode** 📈  
-- Boosted web performance by ~40% (SEO + SSR optimizations) 🚀  
-- Mentored students through **Desh ke Mentor** initiative ✨  
+
+- 🥇 Solved **300+ problems on CodeChef** & **200+ on LeetCode**  
+- 🚀 Improved website performance by **40% (SEO + SSR)**  
+- ✨ Mentored students via **Desh ke Mentor**  
 
 ---
 
-## 🔥 Fun Extras  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vednashday&color=blue)  
-![Jokes Card](https://readme-jokes.vercel.app/api)  
-
----
+## 🔥 Fun Zone  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=vednashday&style=for-the-badge&color=blue" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
+</p>
+
+---
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:FF5733&height=100&section=footer"/>
 </p>
