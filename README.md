@@ -91,7 +91,7 @@ Minimal • Responsive • Animated with Framer Motion
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER GAME LOOP GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:FF5733&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="game loop gif"/>
 </p>
