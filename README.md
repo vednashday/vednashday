@@ -37,9 +37,9 @@
 
 ## Featured Projects  
 
-### [Twiller – Twitter-Inspired Platform](https://github.com/vednashday/twiller-v2)  
-Voice tweets with recording and waveform • Subscriptions • OTP Auth • Cloudinary  
-`React • Node.js • Express • MongoDB • Firebase • Razorpay • Tailwind`
+### [ContentAI - GenAI Social Media Post Generator](https://github.com/vednashday/ContentAI)  
+full-stack Generative AI web application • Posts Content/Caption Generator • Firebase Oauth • History management
+`React.js, Vite, Node.js, Express.js, MongoDB, Firebase Authentication, Generative AI (LLMs), REST APIs, Vercel, Render`
 
 ---
 
